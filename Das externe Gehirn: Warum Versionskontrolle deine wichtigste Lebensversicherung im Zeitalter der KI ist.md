@@ -1,5 +1,5 @@
 ---
-title: Das externe Gehirn: Warum Versionskontrolle deine wichtigste Lebensversicherung ist
+title: "Das externe Gehirn: Warum Versionskontrolle deine wichtigste Lebensversicherung ist"
 date: 2025-11-21
 slug: das-externe-gehirn-git
 public_url: https://gedanken.stevennoack.de/das-externe-gehirn-git
